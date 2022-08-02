@@ -115,7 +115,13 @@ dmypy.json
 
 # Custom
 .idea
+.DS_Store
+._*
 
+# Data directories
 data
 predicted
 results
+github
+reviews
+process
