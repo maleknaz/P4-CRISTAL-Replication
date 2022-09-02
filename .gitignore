@@ -125,6 +125,10 @@ results
 github
 reviews
 process
+p4-processed
+other_data
+old_results
 bin
 selected_apps.json
 trainset_ar_miner.csv
+manual_eval

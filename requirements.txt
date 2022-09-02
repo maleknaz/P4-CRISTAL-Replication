@@ -1,0 +1,15 @@
+pandas~=1.4.3
+numpy~=1.23.1
+nltk~=3.7
+gensim~=4.2.0
+textblob~=0.17.1
+scikit-learn~=1.1.1
+hypy_utils~=1.0.10
+jsonpickle~=2.2.0
+requests~=2.28.1
+langid~=1.1.6
+openpyxl~=3.0.10
+matplotlib~=3.5.3
+numba
+beautifulsoup4~=4.11.1
+cliffs-delta
